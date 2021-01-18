@@ -1,0 +1,2 @@
+C:\Users\10hee\source\repos\TDSPP\x64\Debug\TDSPP.exe
+C:\Users\10hee\source\repos\TDSPP\x64\Debug\TDSPP.pdb

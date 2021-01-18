@@ -1,0 +1,70 @@
+﻿  TDSPP.cpp
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(314,84): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(347,46): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(348,45): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(488,58): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(488,72): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(635,55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(636,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(637,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(638,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(682,40): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1199,33): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1213,32): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1222,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1223,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1305,40): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1306,43): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1307,44): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1330,50): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1333,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1336,50): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1339,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1358,40): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1435,50): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1438,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1441,50): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1444,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1459,40): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1659,112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\10hee\source\repos\TDSPP\TDSPP.cpp(1660,114): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
